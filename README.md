@@ -8,7 +8,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-### Business Problem
+### Description
 
 This project uses SAS code to investigate whether certain metrics are useful for predicting
 a certain music genre. Specifically, this project aims to determine if a certain music genre belongs to rock or a genre
